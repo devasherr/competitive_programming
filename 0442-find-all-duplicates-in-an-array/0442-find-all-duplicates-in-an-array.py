@@ -1,11 +1,12 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        numCount = defaultdict(int)
+        numSet = set()
         res = []
 
         for n in nums:
-            numCount[n] += 1
-        for k in numCount:
-            if numCount[k] == 2:
-                res.append(k)
+            if n in numSet:
+                res.append(n)
+            else:
+                numSet.add(n)
+        
         return res
