@@ -1,29 +1,31 @@
-class BrowserHistory:
-    # when vists remove all forward
-    # when backward pop from backward and append to forward return top back
-    # when forward pop from forward and append to backward reutrn top back
+class ListNode:
+    def __init__(self, val = 0, prev = None, next = None):
+        self.val = val
+        self.prev = prev
+        self.next = next
 
+class BrowserHistory:
     def __init__(self, homepage: str):
-        self.backwardStack = [homepage]
-        self.forwardStack = []
+        self.head = ListNode(homepage)
+        self.current = self.head
 
     def visit(self, url: str) -> None:
-        self.backwardStack.append(url)
-        self.forwardStack = []
+        self.current.next = ListNode(url, self.current)
+        self.current = self.current.next
 
     def back(self, steps: int) -> str:
-        while len(self.backwardStack) > 1 and steps:
-            self.forwardStack.append(self.backwardStack.pop())
-            steps -= 1
-
-        return self.backwardStack[-1]      
+        for _ in range(steps):
+            if self.current.prev:
+                self.current = self.current.prev
+        
+        return self.current.val
 
     def forward(self, steps: int) -> str:
-        while self.forwardStack and steps:
-            self.backwardStack.append(self.forwardStack.pop())
-            steps -= 1
-
-        return self.backwardStack[-1]
+        for _ in range(steps):
+            if self.current.next:
+                self.current = self.current.next
+        
+        return self.current.val
 
 
 # Your BrowserHistory object will be instantiated and called as such:
