@@ -3,11 +3,13 @@ class Solution:
         stack = []
 
         for log in logs:
-            if stack and log == "../":
-                stack.pop()
+            if log == "../":
+                if stack:
+                    stack.pop()
             elif log == "./":
                 continue
             else:
                 stack.append(log)
+        print(stack)
             
         return len(stack)
