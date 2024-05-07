@@ -11,13 +11,10 @@ class Solution:
                     res += "0"
             return res
 
-        prev = "0"
         cur = "0"
 
         while n > 1:
-            cur = prev + "1" + reverse(invert(prev))
-            prev = cur
-
+            cur = cur + "1" + reverse(invert(cur))
             n -= 1
         
         return cur[k - 1]
