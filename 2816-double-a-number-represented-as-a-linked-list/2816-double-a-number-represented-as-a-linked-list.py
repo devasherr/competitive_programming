@@ -1,3 +1,5 @@
+import sys
+sys.set_int_max_str_digits(0)
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
