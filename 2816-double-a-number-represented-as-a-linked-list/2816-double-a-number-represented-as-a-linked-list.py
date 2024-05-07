@@ -1,5 +1,3 @@
-import sys
-sys.set_int_max_str_digits(0)
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -7,22 +5,33 @@ sys.set_int_max_str_digits(0)
 #         self.next = next
 class Solution:
     def doubleIt(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # turn to number
-        num = ""
+        # reverse list
+        prev = None
         cur = head
 
         while cur:
-            num += str(cur.val)
-            cur = cur.next
-        # double it
+            temp = cur.next
+            cur.next = prev
+            prev = cur
+            cur = temp
 
-        num = str(int(num) * 2)
-        # turn back to list
+        # double vals to new list considering carries
+        cur = prev
+        
+        carry = 0
         dummy = ListNode()
         tail = dummy
 
-        for n in num:
-            tail.next = ListNode(int(n))
+        while cur or carry:
+            val = (cur.val * 2) if cur else 0
+            print(val)
+
+            doubleVal = val % 10
+            carry = val // 10
+
+            
+            tail.next = ListNode(doubleVal)
             tail = tail.next
+            cur = cur.next
 
         return dummy.next
