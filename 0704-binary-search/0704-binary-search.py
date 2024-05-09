@@ -3,14 +3,13 @@ class Solution:
         l, r = 0, len(nums) - 1
 
         while l <= r:
-            # half puls left bound
-            mid = l + ((r - l) // 2)
+            m = (l + r) // 2
 
-            if nums[mid] > target:
-                r -= 1
-            elif nums[mid] < target:
-                l += 1
+            if nums[m] < target:
+                l = m + 1
+            elif nums[m] > target:
+                r = m - 1
             else:
-                return mid
-
+                return m
         return -1
+            
