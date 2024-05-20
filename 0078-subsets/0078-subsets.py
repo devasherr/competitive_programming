@@ -1,23 +1,22 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         res = []
-        subset = []
 
-        # recursive backtracking
-        def tracker(i):
+        # 1 2 3
+        curSet = []
+        def dfs(i):
             if i >= len(nums):
-                res.append(subset.copy())
+                res.append(curSet.copy())
                 return 
-            
-            # decide to include
-            subset.append(nums[i])
-            tracker(i + 1)
 
-            # decide NOT to inculde
-            subset.pop()
-            tracker(i + 1)
-        
-        # call function of first index (0)
-        tracker(0)
+            # decision to include
+            curSet.append(nums[i])
+            dfs(i + 1)
+
+            # decision not to include
+            curSet.pop()
+            dfs(i + 1)
+
+        dfs(0)
 
         return res
