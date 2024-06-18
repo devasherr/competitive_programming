@@ -9,6 +9,8 @@ class Solution:
         self.res = 0
 
         def dfs(root, cur):
+            if not root:
+                return
             if not root.left and not root.right:
                 cur += str(root.val)
                 self.res += int(cur)
