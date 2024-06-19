@@ -1,22 +1,27 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        res = 0
         rows, cols = len(grid), len(grid[0])
+        visit = set()
+        directions = [[0, 1], [1, 0], [0, -1], [-1, 0]]
 
+        def isInBound(i, j):
+            return 0 <= i < rows and 0 <= j < cols
+        
+        def dfs(i, j):
+            if not isInBound(i, j) or grid[i][j] == 0:
+                return 1
+            if (i, j) in visit:
+                return 0
+
+            visit.add((i, j))
+            count = 0
+            for direction in directions:
+                count += dfs(i + direction[0], j + direction[1])
+
+            return count
+        
+        # find start of island
         for i in range(rows):
-            cur = 0
             for j in range(cols):
-                if grid[i][j] == 1:
-                    cur += 4
-
-                    if j > 0 and grid[i][j - 1] == 1:
-                        cur -= 1
-                    if j < cols - 1 and grid[i][j + 1] == 1:
-                        cur -= 1
-                    if i > 0 and grid[i - 1][j] == 1:
-                        cur -= 1
-                    if i < rows - 1 and grid[i + 1][j] == 1:
-                        cur -= 1
-            res += cur
-            
-        return res
+                if grid[i][j]:
+                    return dfs(i, j)
