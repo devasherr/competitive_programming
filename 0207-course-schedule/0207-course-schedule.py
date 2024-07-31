@@ -1,26 +1,27 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         adjList = defaultdict(list)
-        for u, v in prerequisites:
-            adjList[u].append(v)
+        for course, pre in prerequisites:
+            adjList[pre].append(course)
         
         visit = set()
-        def dfs(cur):
-            if cur in visit:
-                return False # loop detected
-            if adjList[cur] == []:
+        def dfs(curCourse):
+            if curCourse in visit:
+                return False
+            if adjList[curCourse] == []:
                 return True
 
-            visit.add(cur)
-            for pre in adjList[cur]:
-                if not dfs(pre):
+            visit.add(curCourse)
+            for nei in adjList[curCourse]:
+                if not dfs(nei):
                     return False
-            visit.remove(cur)
-            # course resolved
-            adjList[cur] = []
+            
+            
+            adjList[curCourse] = []
             return True
-
+        
         for i in range(numCourses):
-            if not dfs(i):
-                return False
+            if i not in visit:
+                if not dfs(i):
+                    return False
         return True
