@@ -5,9 +5,12 @@ class Solution:
                 return 1
             if m < 1 or n < 1:
                 return 0
+
             if (m, n) in memo:
                 return memo[(m, n)]
-            
+            if (n, m) in memo:
+                return memo[(n, m)]
+                
             memo[(m-1, n)] = backtrack(m-1, n, memo)
             memo[(m, n-1)] = backtrack(m, n-1, memo)
             return memo[(m-1, n)] + memo[(m, n-1)]
