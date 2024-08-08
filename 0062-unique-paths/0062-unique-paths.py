@@ -1,18 +1,11 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        def backtrack(m, n, memo):
-            if m == 1 and n == 1:
-                return 1
-            if m < 1 or n < 1:
-                return 0
+        dp = [[0 for _ in range(n+1)]for _ in range(m+1)]
+        dp[1][1] = 1
 
-            if (m, n) in memo:
-                return memo[(m, n)]
-            if (n, m) in memo:
-                return memo[(n, m)]
-                
-            memo[(m-1, n)] = backtrack(m-1, n, memo)
-            memo[(m, n-1)] = backtrack(m, n-1, memo)
-            return memo[(m-1, n)] + memo[(m, n-1)]
+        for i in range(m+1):
+            for j in range(n+1):
+                if i+1 < m+1: dp[i+1][j] += dp[i][j]
+                if j+1 < n+1: dp[i][j+1] += dp[i][j]
         
-        return backtrack(m, n, {})
+        return dp[m][n]
