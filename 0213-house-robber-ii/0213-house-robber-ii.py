@@ -1,22 +1,16 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        def dp(i, amount, parent):
-            print(i, amount, parent)
-            if i < 0:
-                return amount
-            if (i, amount) in memo:
-                return memo[(i, amount)]
-            
-            rob = 0
-            if i == 0:
-                if parent != len(nums) - 1:
-                    rob = dp(i-2, amount+nums[i], max(parent, i))
-            else:
-                rob = dp(i-2, amount+nums[i], max(parent, i))
+        if len(nums) == 1:
+            return nums[0]
 
-            no_rob = dp(i-1, amount, parent)
-            memo[(i, amount)] = max(rob, no_rob)
-            return memo[(i, amount)]
+        def helpRob(houses):
+            two, one= 0, 0
+
+            for i in range(len(houses)):
+                temp = one
+                one = max(one, two+houses[i])
+                two = temp
             
-        memo = {}
-        return dp(len(nums)-1, 0, -1)
+            return one
+        
+        return max(helpRob(nums[:len(nums)-1]), helpRob(nums[1:]))
