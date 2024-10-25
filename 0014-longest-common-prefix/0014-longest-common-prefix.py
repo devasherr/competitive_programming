@@ -1,13 +1,27 @@
+class TrieNode:
+    def __init__(self):
+        self.children = {}
+        
 class Solution:
+    def __init__(self):
+        self.root = TrieNode()
+        
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        ans = ""
-        strs = sorted(strs) 
-        start = strs[0]
-        end = strs[-1]
-
-        for i in range(min(len(start), len(end))):
-            if (start[i] != end[i]):
-                return ans
-            ans += start[i]
+        index = len(strs[0])
+        
+        for word in strs:
+            # insert every word into trie
+            count = 0
+            cur = self.root
             
-        return ans
+            for c in word:
+                if not cur.children:
+                    cur.children[c] = TrieNode()
+                elif c not in cur.children:
+                    break
+                cur = cur.children[c]
+                count += 1
+            index = min(index, count)
+        
+        return strs[0][:index]
+                
