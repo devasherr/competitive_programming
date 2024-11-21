@@ -6,36 +6,33 @@ class Solution:
         for i, j in walls:
             matrix[i][j] = 2
 
-        def inBound(i, j):
-            return 0 <= i < m and 0 <= j < n
-
         def traverse(a, b):
             # down
-            i = a
+            i = a + 1
             while i < m:
-                if matrix[i][b] == 2: break
-                matrix[i][b] = 1
+                if matrix[i][b] == 2 or matrix[i][b] == 1: break
+                matrix[i][b] = 3
                 i += 1
 
             # up
-            i = a
+            i = a - 1
             while i >= 0:
-                if matrix[i][b] == 2: break
-                matrix[i][b] = 1
+                if matrix[i][b] == 2 or matrix[i][b] == 1: break
+                matrix[i][b] = 3
                 i -= 1
 
-            j = b
+            j = b - 1
             # left
             while j >= 0:
-                if matrix[a][j] == 2: break 
-                matrix[a][j] = 1
+                if matrix[a][j] == 2 or matrix[a][j] == 1: break 
+                matrix[a][j] = 3
                 j -= 1
 
             # right
-            j = b
+            j = b + 1
             while j < n:
-                if matrix[a][j] == 2: break 
-                matrix[a][j] = 1
+                if matrix[a][j] == 2 or matrix[a][j] == 1: break 
+                matrix[a][j] = 3
                 j += 1
 
         for i, j in guards:
@@ -44,6 +41,6 @@ class Solution:
         res = 0
         for i in range(m):
             for j in range(n):
-                if not matrix[i][j]:
+                if matrix[i][j] == 0:
                     res += 1
         return res
