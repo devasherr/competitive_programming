@@ -1,19 +1,23 @@
 class Solution:
     def canChange(self, start: str, target: str) -> bool:
-        startList, targetList = [], []
-        for i in range(len(start)):
-            if start[i] != "_":
-                startList.append((start[i], i))
-            if target[i] != "_":
-                targetList.append((target[i], i))
+        i, j = 0, 0
+        while i < len(start) and j < len(target):
+            if start[i] == "_":
+                i += 1
+                continue
+            if target[j] == "_":
+                j += 1
+                continue
+            if start[i] != target[j]: return False
+            if start[i] == "L" and i < j: return False
+            if start[i] =="R" and i > j: return False
+            
+            i += 1
+            j += 1
         
-        if len(startList) != len(targetList): return False
+        while i < len(start) and start[i] == "_":
+            i += 1
+        while j < len(target) and target[j] == "_":
+            j += 1
         
-        for i in range(len(startList)):
-            if startList[i][0] != targetList[i][0]:
-                return False
-            if startList[i][0] == "L" and startList[i][1] < targetList[i][1]:
-                return False
-            if startList[i][0] == "R" and startList[i][1] > targetList[i][1]:
-                return False
-        return True
+        return i >= len(start) and j >= len(target)
