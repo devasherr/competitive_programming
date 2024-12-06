@@ -1,13 +1,9 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        if len(s) != len(t): return False
+        countS = Counter(s)
+        countT = Counter(t)
 
-        sMap, tMap = {}, {}
         for i in range(len(s)):
-            if s[i] in sMap and sMap[s[i]] != t[i]:
+            if countS[s[i]] != countT[t[i]]:
                 return False
-            if t[i] in tMap and tMap[t[i]] != s[i]:
-                return False
-            sMap[s[i]] = t[i]
-            tMap[t[i]] = s[i]
         return True
