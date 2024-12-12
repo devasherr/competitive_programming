@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3427-special-array-ii](https://github.com/devasherr/competitive_programming/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Shortest Path
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devasherr/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
