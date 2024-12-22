@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devasherr/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devasherr/competitive_programming/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
 ## Graph
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devasherr/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devasherr/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
