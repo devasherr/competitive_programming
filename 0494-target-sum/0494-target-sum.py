@@ -1,13 +1,12 @@
 class Solution:
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        def backtrack(i, amount, memo):
+        def dp(i, cur):
             if i == len(nums):
-                return 1 if amount == target else 0
-            
-            if (i, amount) in memo:
-                return memo[(i,amount)]
+                return cur == target
 
-            for num in nums:
-                memo[(i, amount)] = backtrack(i+1, amount+nums[i], memo) + backtrack(i+1, amount-nums[i], memo)
-                return memo[(i, amount)]
-        return backtrack(0, 0, {})
+            add = dp(i+1, cur+nums[i])
+            sub = dp(i+1, cur-nums[i])
+
+            return add + sub
+
+        return dp(0, 0)
