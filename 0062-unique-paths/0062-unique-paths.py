@@ -1,12 +1,15 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        def dp(i, j):
-            if i >= m or j >= n: return 0
-            if i == m - 1 and j == n - 1: return 1
-            if (i, j) not in memo:
-                memo[(i, j)] = dp(i+1, j) + dp(i, j+1)
-
-            return memo[(i, j)]
-
-        memo = {}
-        return dp(0, 0)
+        self.res = 0
+        def backtrack(m, n):
+            if m < 1 or n < 1:
+                return 
+            if m == 1 and n == 1:
+                self.res += 1
+                return
+            
+            backtrack(m-1, n)
+            backtrack(m, n-1)
+        
+        backtrack(m, n)
+        return self.res
