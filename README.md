@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/devasherr/competitive_programming/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/devasherr/competitive_programming/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/devasherr/competitive_programming/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devasherr/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devasherr/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/devasherr/competitive_programming/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/devasherr/competitive_programming/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
