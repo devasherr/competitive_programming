@@ -1,15 +1,12 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        self.res = 0
-        def backtrack(m, n):
-            if m < 1 or n < 1:
-                return 
-            if m == 1 and n == 1:
-                self.res += 1
-                return
-            
-            backtrack(m-1, n)
-            backtrack(m, n-1)
-        
-        backtrack(m, n)
-        return self.res
+        dp = [[0 for _ in range(n)] for _ in range(m)]
+        dp[-1][-1] = 1
+
+        for i in reversed(range(m)):
+            for j in reversed(range(n)):
+                down = dp[i + 1][j] if i + 1 < m else 0
+                right = dp[i][j+1] if j + 1 < n else 0
+                dp[i][j] += down + right
+
+        return dp[0][0]
