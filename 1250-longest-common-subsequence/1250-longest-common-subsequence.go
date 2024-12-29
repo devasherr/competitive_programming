@@ -15,9 +15,6 @@ func longestCommonSubsequence(text1 string, text2 string) int {
         }
     }
 
-    for _, line := range dp {
-        fmt.Println(line)
-    }
     return dp[len(dp) - 1][len(dp[0]) - 1]
 }
 
