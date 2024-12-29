@@ -22,18 +22,25 @@ class Codec:
         return "".join(res)
 
     def deserialize(self, data):
-        q = deque(data.split())
-        def preOrder(q):
-            if not q: return
+        data = data.split()
+        self.idx = 0
 
-            cur = q.popleft()
-            if cur == "N": return
+        def preOrder():
+            if self.idx >= len(data): return
+
+            cur = data[self.idx]
+            if cur == "N":
+                self.idx += 1
+                return 
+
             node = TreeNode(int(cur))
-            node.left = preOrder(q)
-            node.right = preOrder(q)
+            self.idx += 1
+            node.left = preOrder()
+            node.right = preOrder()
 
             return node
-        return preOrder(q)
+
+        return preOrder()
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
