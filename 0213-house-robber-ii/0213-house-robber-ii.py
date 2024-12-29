@@ -1,16 +1,16 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        if len(nums) == 1:
-            return nums[0]
+        return max(self.robStreet(nums[:-1]), self.robStreet(nums[1:]))
 
-        def helpRob(houses):
-            two, one= 0, 0
+    def robStreet(self, street):
+        def dfs(i):
+            if i >= len(street): return 0
+            if i not in memo:
+                rob = street[i] + dfs(i+2)
+                norob = dfs(i+1)
+                memo[i] = max(rob, norob)
 
-            for i in range(len(houses)):
-                temp = one
-                one = max(one, two+houses[i])
-                two = temp
-            
-            return one
-        
-        return max(helpRob(nums[:len(nums)-1]), helpRob(nums[1:]))
+            return memo[i]
+
+        memo = {}
+        return dfs(0)
