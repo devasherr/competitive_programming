@@ -6,51 +6,34 @@
 #         self.right = None
 
 class Codec:
+
     def serialize(self, root):
-        if not root: return ""
-
         res = []
-        q = deque([root])
-        level = 1
 
-        while q:
-            good = False
-            for _ in range(len(q)):
-                node = q.popleft()
-                if not node:
-                    # par
-                    res.append(" null")
-                    # child
-                    q.append(None)
-                    q.append(None)
-                    continue
-                good = True
-                res.append(" "+str(node.val))
+        def preOrder(node):
+            if not node:
+                res.append(" N")
+                return
+            res.append(" "+str(node.val))
+            preOrder(node.left)
+            preOrder(node.right)
+        preOrder(root)
 
-                q.append(node.left)
-                q.append(node.right)         
-
-            if not good: break
         return "".join(res)
 
     def deserialize(self, data):
-        if not data: return None
+        q = deque(data.split())
+        def preOrder(q):
+            if not q: return
 
-        data = data.split()
-        root = TreeNode(int(data[0]))
-        q = deque([(root, 0)])
+            cur = q.popleft()
+            if cur == "N": return
+            node = TreeNode(int(cur))
+            node.left = preOrder(q)
+            node.right = preOrder(q)
 
-        while q:
-            node, idx = q.popleft()
-            leftIdx, rightIdx = 2*idx+1, 2*idx+2
-            if leftIdx < len(data) and data[leftIdx] != "null":
-                node.left = TreeNode(int(data[leftIdx]))
-                q.append((node.left, leftIdx))
-            if rightIdx < len(data) and data[rightIdx] != "null":
-                node.right = TreeNode(int(data[rightIdx]))
-                q.append((node.right, rightIdx))
-
-        return root
+            return node
+        return preOrder(q)
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
