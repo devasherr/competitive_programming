@@ -1,51 +1,40 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
         rows, cols = len(heights), len(heights[0])
-        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-        pacific = [[0 for _ in range(cols)] for _ in range(rows)]
-        atlantic = [[0 for _ in range(cols)] for _ in range(rows)]
+        matrix = [[0 for _ in range(cols)] for _ in range(rows)]
 
-        def isInBound(i, j):
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        def inBound(i, j):
             return 0 <= i < rows and 0 <= j < cols
 
-        q  = deque()
-        visit = set()
-        # pacific start point
-        for i in range(rows):
-            for j in range(cols):
-                if i == 0 or j == 0:
-                    q.append((i, j))
-        
-        while q:
-            i, j = q.popleft()
+        def dfs(i, j, inc):
+            matrix[i][j] += inc
             visit.add((i, j))
-            pacific[i][j] |= 1
 
             for dr, dc in directions:
-                if isInBound(i+dr, j+dc) and (i+dr, j+dc) not in visit and heights[i+dr][j+dc] >= heights[i][j]:
-                    q.append((i+dr, j+dc))
+                if inBound(i+dr, j+dc) and (i+dr, j+dc) not in visit and heights[i][j] <= heights[i+dr][j+dc]:
+                    dfs(i+dr, j+dc, inc)
         
-        q  = deque()
         visit = set()
-        # atlantic start point
+        # pacific
+        for j in range(cols):
+            if (0, j) not in visit:
+                dfs(0, j, 1)
         for i in range(rows):
-            for j in range(cols):
-                if i == rows - 1 or j == cols - 1:
-                    q.append((i, j))
+            if (i, 0) not in visit:
+                dfs(i, 0, 1)
+        visit.clear()
         
-        while q:
-            i, j = q.popleft()
-            visit.add((i, j))
-            atlantic[i][j] |= 1
-
-            for dr, dc in directions:
-                if isInBound(i+dr, j+dc) and (i+dr, j+dc) not in visit and heights[i+dr][j+dc] >= heights[i][j]:
-                    q.append((i+dr, j+dc))
-        
+        # atlantic
+        for j in range(cols):
+            if (rows - 1, j) not in visit:
+                dfs(rows-1, j, 2)
+        for i in range(rows):
+            if (i, cols - 1) not in visit:
+                dfs(i, cols-1, 2)
         res = []
         for i in range(rows):
             for j in range(cols):
-                if pacific[i][j] and atlantic[i][j]:
+                if matrix[i][j] == 3:
                     res.append([i, j])
-        
         return res
