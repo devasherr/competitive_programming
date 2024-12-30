@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/devasherr/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/devasherr/competitive_programming/tree/master/0205-isomorphic-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devasherr/competitive_programming/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/devasherr/competitive_programming/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
