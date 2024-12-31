@@ -7,34 +7,9 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        pPath = self.getPath(root, p.val)
-        qPath = self.getPath(root, q.val)
-        i, res = 0, None
-
-        while i < len(pPath) and i < len(qPath):
-            if pPath[i].val != qPath[i].val:
-                break
-            res = pPath[i]
-            i += 1
-            
-        return res 
-
-    def getPath(self, root, target):
-        res = []
-        def dfs(root, target, cur):
-            if not root: return
-            if root.val == target:
-                cur.append(root)
-                res.append(cur[:])
-                return 
-
-            cur.append(root)
-            dfs(root.left, target, cur)
-            cur.pop()
-
-            cur.append(root)
-            dfs(root.right, target, cur)
-            cur.pop()
-
-        dfs(root, target, [])
-        return res[0]
+        if p.val < root.val and q.val < root.val:
+            return self.lowestCommonAncestor(root.left, p, q)
+        elif p.val > root.val and q.val > root.val:
+            return self.lowestCommonAncestor(root.right, p, q)
+        else:
+            return root
