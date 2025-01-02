@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/devasherr/competitive_programming/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/devasherr/competitive_programming/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devasherr/competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devasherr/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/devasherr/competitive_programming/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/devasherr/competitive_programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devasherr/competitive_programming/tree/master/0053-maximum-subarray) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/devasherr/competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devasherr/competitive_programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devasherr/competitive_programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
