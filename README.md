@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/devasherr/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/devasherr/competitive_programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/devasherr/competitive_programming/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/devasherr/competitive_programming/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/devasherr/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/devasherr/competitive_programming/tree/master/0039-combination-sum) |
+| [0093-restore-ip-addresses](https://github.com/devasherr/competitive_programming/tree/master/0093-restore-ip-addresses) |
 ## Design
 |  |
 | ------- |
