@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devasherr/competitive_programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/devasherr/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/devasherr/competitive_programming/tree/master/0056-merge-intervals) |
+| [0120-triangle](https://github.com/devasherr/competitive_programming/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devasherr/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devasherr/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/devasherr/competitive_programming/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/devasherr/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/devasherr/competitive_programming/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/devasherr/competitive_programming/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devasherr/competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/devasherr/competitive_programming/tree/master/0213-house-robber-ii) |
