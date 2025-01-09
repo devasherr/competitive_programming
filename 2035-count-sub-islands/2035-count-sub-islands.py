@@ -7,27 +7,21 @@ class Solution:
 
         visit = set()
 
-        def dfs(i, j, cur):
+        def dfs(i, j):
             if grid2[i][j] == 0: return
-            cur.append((i, j))
+            good = True
+            if grid1[i][j] == 0:
+                good = False
             visit.add((i, j))
 
             for dr, dc in directions:
-                if inBound(i+dr, j+dc) and (i+dr, j+dc) not in visit:
-                    dfs(i+dr, j+dc, cur)
-            return cur
+                if inBound(i+dr, j+dc) and grid2[i+dr][j+dc] == 1 and  (i+dr, j+dc) not in visit:
+                    good &= dfs(i+dr, j+dc)
+            return good
 
         res = 0
         for i in range(rows):
             for j in range(cols):
                 if grid2[i][j] == 1 and (i, j) not in visit:
-                    path = dfs(i, j, [])
-                    bad = False
-                    for x, y in path:
-                        if grid1[x][y] == 0:
-                            bad = True
-                            break
-                    if not bad:
-                        res += 1
-
+                    res += dfs(i, j)
         return res
