@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
+| [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devasherr/competitive_programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1222-remove-covered-intervals](https://github.com/devasherr/competitive_programming/tree/master/1222-remove-covered-intervals) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/devasherr/competitive_programming/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
+| [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/devasherr/competitive_programming/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
 ## Topological Sort
 |  |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/devasherr/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/devasherr/competitive_programming/tree/master/0191-number-of-1-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
