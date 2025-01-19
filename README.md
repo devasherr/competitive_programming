@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/devasherr/competitive_programming/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/devasherr/competitive_programming/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devasherr/competitive_programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1222-remove-covered-intervals](https://github.com/devasherr/competitive_programming/tree/master/1222-remove-covered-intervals) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
+| [1020-longest-turbulent-subarray](https://github.com/devasherr/competitive_programming/tree/master/1020-longest-turbulent-subarray) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2478-longest-nice-subarray](https://github.com/devasherr/competitive_programming/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/devasherr/competitive_programming/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/devasherr/competitive_programming/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/devasherr/competitive_programming/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
