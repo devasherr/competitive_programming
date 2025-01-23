@@ -1,26 +1,18 @@
 class Solution:
     def countServers(self, grid: List[List[int]]) -> int:
-        res = set()
+        rowCount, colCount = [], []
         for i in range(len(grid)):
-            cur = 0
-            temp = []
-            for j in range(len(grid[0])):
-                if grid[i][j]:
-                    temp.append((i, j))
-                cur += grid[i][j]
-            if cur > 1:
-                for a, b in temp:
-                    res.add((a, b))
-                    
+            rowCount.append(sum(grid[i]))
         for j in range(len(grid[0])):
             cur = 0
-            temp = []
             for i in range(len(grid)):
-                if grid[i][j]:
-                    temp.append((i, j))
                 cur += grid[i][j]
-            if cur > 1:
-                for a, b in temp:
-                    res.add((a, b))
-
-        return len(res)
+            colCount.append(cur)
+            
+        res = 0
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                if max(rowCount[i], colCount[j]) > 1:
+                    res += grid[i][j]
+        
+        return res
