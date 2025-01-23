@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1222-remove-covered-intervals](https://github.com/devasherr/competitive_programming/tree/master/1222-remove-covered-intervals) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/devasherr/competitive_programming/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 ## Union Find
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devasherr/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 ## Prefix Sum
 |  |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devasherr/competitive_programming/tree/master/0451-sort-characters-by-frequency) |
+| [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/devasherr/competitive_programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1708-design-parking-system](https://github.com/devasherr/competitive_programming/tree/master/1708-design-parking-system) |
 ## Stack
