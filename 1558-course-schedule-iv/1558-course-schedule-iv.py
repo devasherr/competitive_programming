@@ -4,18 +4,23 @@ class Solution:
         for u, v in prerequisites:
             graph[u].append(v)
         
-        def dfs(cur, target, visit):
-            if cur == target: return True
-            if cur in visit: return False
+        preSet = defaultdict(set)
+        def dfs(node):
+            if preSet[node]: return preSet[node]
+            vals = set()
+            for child in graph[node]:
+                vals = vals.union(dfs(child))
+                vals.add(child)
             
-            visit.add(cur)
-            val = False
-            for child in graph[cur]:
-                val |= dfs(child, target, visit)
-            return val
-
+            for v in vals:
+                preSet[node].add(v)
+            return preSet[node]
+        
+        for i in range(numCourses):
+            dfs(i)
+        
         res = []
         for u, v in queries:
-            res.append(dfs(u, v, set()))
-        
+            ans = True if v in preSet[u] else False
+            res.append(ans)
         return res
