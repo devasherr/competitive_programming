@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
+| [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/devasherr/competitive_programming/tree/master/3189-find-champion-ii) |
 ## Breadth-First Search
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Heap (Priority Queue)
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
+| [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 ## Trie
 |  |
 | ------- |
