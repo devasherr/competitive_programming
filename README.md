@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/devasherr/competitive_programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devasherr/competitive_programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devasherr/competitive_programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devasherr/competitive_programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
