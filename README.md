@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/devasherr/competitive_programming/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
+| [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2465-shifting-letters-ii](https://github.com/devasherr/competitive_programming/tree/master/2465-shifting-letters-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
+| [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/devasherr/competitive_programming/tree/master/3189-find-champion-ii) |
 ## Breadth-First Search
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/devasherr/competitive_programming/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
+| [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -364,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/devasherr/competitive_programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
