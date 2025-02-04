@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/devasherr/competitive_programming/tree/master/0283-move-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
+| [0665-non-decreasing-array](https://github.com/devasherr/competitive_programming/tree/master/0665-non-decreasing-array) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/devasherr/competitive_programming/tree/master/0952-word-subsets) |
