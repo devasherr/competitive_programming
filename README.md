@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/devasherr/competitive_programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/devasherr/competitive_programming/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
+| [2048-build-array-from-permutation](https://github.com/devasherr/competitive_programming/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/devasherr/competitive_programming/tree/master/1708-design-parking-system) |
+| [2048-build-array-from-permutation](https://github.com/devasherr/competitive_programming/tree/master/2048-build-array-from-permutation) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
