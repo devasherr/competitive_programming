@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devasherr/competitive_programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1222-remove-covered-intervals](https://github.com/devasherr/competitive_programming/tree/master/1222-remove-covered-intervals) |
+| [1364-tuple-with-same-product](https://github.com/devasherr/competitive_programming/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/devasherr/competitive_programming/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/devasherr/competitive_programming/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1364-tuple-with-same-product](https://github.com/devasherr/competitive_programming/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/devasherr/competitive_programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/devasherr/competitive_programming/tree/master/0451-sort-characters-by-frequency) |
+| [1364-tuple-with-same-product](https://github.com/devasherr/competitive_programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/devasherr/competitive_programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1708-design-parking-system](https://github.com/devasherr/competitive_programming/tree/master/1708-design-parking-system) |
