@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devasherr/competitive_programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3427-special-array-ii](https://github.com/devasherr/competitive_programming/tree/master/3427-special-array-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/devasherr/competitive_programming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devasherr/competitive_programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devasherr/competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
