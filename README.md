@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1748-best-team-with-no-conflicts](https://github.com/devasherr/competitive_programming/tree/master/1748-best-team-with-no-conflicts) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devasherr/competitive_programming/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devasherr/competitive_programming/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/devasherr/competitive_programming/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/devasherr/competitive_programming/tree/master/3427-special-array-ii) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devasherr/competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
+| [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/devasherr/competitive_programming/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/devasherr/competitive_programming/tree/master/0931-maximum-frequency-stack) |
+| [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/devasherr/competitive_programming/tree/master/1708-design-parking-system) |
 ## Binary Tree
 |  |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
