@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/devasherr/competitive_programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/devasherr/competitive_programming/tree/master/0039-combination-sum) |
 | [0093-restore-ip-addresses](https://github.com/devasherr/competitive_programming/tree/master/0093-restore-ip-addresses) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/devasherr/competitive_programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
 | ------- |
