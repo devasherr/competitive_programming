@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/devasherr/competitive_programming/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/devasherr/competitive_programming/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/devasherr/competitive_programming/tree/master/0647-palindromic-substrings) |
+| [0874-backspace-string-compare](https://github.com/devasherr/competitive_programming/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/devasherr/competitive_programming/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devasherr/competitive_programming/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/devasherr/competitive_programming/tree/master/0647-palindromic-substrings) |
 | [0858-masking-personal-information](https://github.com/devasherr/competitive_programming/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/devasherr/competitive_programming/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/devasherr/competitive_programming/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/devasherr/competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/devasherr/competitive_programming/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/devasherr/competitive_programming/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/devasherr/competitive_programming/tree/master/2048-build-array-from-permutation) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/devasherr/competitive_programming/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/devasherr/competitive_programming/tree/master/0931-maximum-frequency-stack) |
 ## Bucket Sort
 |  |
