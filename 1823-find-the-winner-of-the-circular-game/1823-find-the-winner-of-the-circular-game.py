@@ -1,13 +1,10 @@
 class Solution:
     def findTheWinner(self, n: int, k: int) -> int:
-        # our players
-        nums = [p for p in range(1, n + 1)]
-
-        i = k - 1
-        while len(nums) > 1:
-            nums.pop(i)
-
-            # circular traversal
-            i = (i + k - 1) % len(nums)
-
-        return nums[0]
+        arr = [i for i in range(1, n+1)]
+        i = 0
+        
+        while len(arr) > 1:
+            i = (i+k-1) % len(arr)
+            arr.pop(i)
+        
+        return arr[0]
