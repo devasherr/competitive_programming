@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devasherr/competitive_programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/devasherr/competitive_programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/devasherr/competitive_programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/devasherr/competitive_programming/tree/master/3427-special-array-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/devasherr/competitive_programming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/devasherr/competitive_programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/devasherr/competitive_programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/devasherr/competitive_programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/devasherr/competitive_programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devasherr/competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/devasherr/competitive_programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/devasherr/competitive_programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
