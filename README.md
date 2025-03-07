@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devasherr/competitive_programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devasherr/competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/devasherr/competitive_programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/devasherr/competitive_programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/devasherr/competitive_programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -473,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/devasherr/competitive_programming/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
