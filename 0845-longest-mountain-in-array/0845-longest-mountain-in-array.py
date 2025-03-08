@@ -1,37 +1,26 @@
 class Solution:
     def longestMountain(self, arr: List[int]) -> int:
-        # 3,s1,i2,p3,2,ej1,1,i2,3,4,5,4,3,2,1
-        # 5 
-        # startMin = 1
-        if len(arr) < 3:
-            return 0
+        left, right = deque(), deque()
+        leftPrev, rightPrev = arr[0], arr[-1]
+        leftCount, rightCount = 0, 0
+
+        for i in range(len(arr)):
+            j = len(arr) - i - 1
             
-        j = 0
-        i = 0
-        n = len(arr)
-        startMin = 0
-        peak = 0
-        endMin = 0
-        mountain = 0
-        # get start min
-        while i < n:
-            i = j + 1
-            while i < n:
-                if arr[i] <= arr[i - 1]:
-                    startMin = i
-                    break
-                i += 1
+            leftCount = leftCount + 1 if arr[i] > leftPrev else 1
+            rightCount = rightCount + 1 if arr[j] > rightPrev else 1
 
-            # get peak
-            j = startMin
-            while j + 1 < n and arr[j] < arr[j + 1]:
-                j += 1
-            peak = j
+            left.append(leftCount)
+            right.append(rightCount)
 
-            # get end min
-            while j + 1 < n and arr[j] > arr[j + 1]:
-                j += 1
-            endMin = j
-            mountain = max(mountain, j - i + 1)
+            leftPrev = arr[i]
+            rightPrev = arr[j]
 
-        return endMin - startMin + 1 if endMin != startMin else 0
+        res = 0
+        for i in range(len(arr)):
+            if left[i] < 2 or right[i] < 2:
+                continue
+            
+            res = max(res, left[i] + right[i] - 1)
+        
+        return res
