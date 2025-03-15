@@ -1,19 +1,21 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        childMap = defaultdict(list)
+        graph = defaultdict(list)
+        for u, v in edges:
+            graph[u].append(v)
+            graph[v].append(u)
 
-        for n, v in edges:
-            childMap[n].append(v)
+        visit = set()
 
-        q = deque([source])
-        visited = [source]
+        def dfs(node):
+            if node == destination: return True
+            visit.add(node)
 
-        while q:
-            node = q.popleft()
-            if node == destination:
-                return True
-
-            for elem in childMap[node]:
-                q.append(elem)
-
-        return False
+            for child in graph[node]:
+                if child not in visit:
+                    if dfs(child):
+                        return True
+            
+            return False
+        
+        return dfs(source)
