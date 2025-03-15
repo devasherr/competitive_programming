@@ -5,18 +5,17 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
 
-        q = deque([source])
         visit = set()
 
-        while q:
-            node = q.popleft()
+        def dfs(node):
+            if node == destination: return True
             visit.add(node)
 
-            if node == destination:
-                return True
-            
             for child in graph[node]:
                 if child not in visit:
-                    q.append(child)
+                    if dfs(child):
+                        return True
+            
+            return False
         
-        return False
+        return dfs(source)
