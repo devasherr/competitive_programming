@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/devasherr/competitive_programming/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/devasherr/competitive_programming/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/devasherr/competitive_programming/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/devasherr/competitive_programming/tree/master/3483-alternating-groups-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/devasherr/competitive_programming/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/devasherr/competitive_programming/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/devasherr/competitive_programming/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/devasherr/competitive_programming/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Matrix
 |  |
