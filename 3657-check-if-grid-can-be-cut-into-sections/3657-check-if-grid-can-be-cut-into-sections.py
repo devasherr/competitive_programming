@@ -1,28 +1,23 @@
 class Solution:
     def checkValidCuts(self, n: int, rectangles: List[List[int]]) -> bool:
-        xStack, yStack = [], []
-        rectangles.sort()
-        xStack.append([rectangles[0][0], rectangles[0][2]])
+        x, y = sorted(rectangles), sorted(rectangles, key = lambda x: x[1])
+        xPrev, yPrev = [x[0][0], x[0][2]], [y[0][1], y[0][3]]
+        xCount, yCount = 1, 1
 
         for i in range(1, len(rectangles)):
-            x1, x2 = rectangles[i][0], rectangles[i][2]
-            if x1 < xStack[-1][-1]:
-                px1, px2 = xStack.pop()
-                xStack.append([min(px1, x1), max(px2, x2)])
-            else:
-                xStack.append([x1, x2])
-        
-        rectangles.sort(key = lambda x : x[1])
-        yStack.append([rectangles[0][1], rectangles[0][3]])
+            x1, x2 = x[i][0], x[i][2]
+            y1, y2 = y[i][1], y[i][3]
 
-        for i in range(1, len(rectangles)):
-            y1, y2 = rectangles[i][1], rectangles[i][3]
-            if y1 < yStack[-1][-1]:
-                py1, py2 = yStack.pop()
-                yStack.append([min(py1, y1), max(py2, y2)])
+            if x1 < xPrev[-1]:
+                xPrev = [min(xPrev[0], x1), max(xPrev[1], x2)]
             else:
-                yStack.append([y1, y2])
+                xPrev = [x1, x2]
+                xCount += 1
+
+            if y1 < yPrev[-1]:
+                yPrev = [min(yPrev[0], y1), max(yPrev[1], y2)]
+            else:
+                yPrev = [y1, y2]
+                yCount += 1
         
-        print(xStack)
-        print(yStack)
-        return len(xStack) >= 3 or len(yStack) >= 3
+        return xCount >= 3 or yCount >= 3
