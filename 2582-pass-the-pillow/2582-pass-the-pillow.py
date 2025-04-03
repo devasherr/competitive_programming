@@ -1,17 +1,9 @@
 class Solution:
     def passThePillow(self, n: int, time: int) -> int:
-        i = 1
-        forward = True
+        direction = time // (n - 1)
+        step = time % (n - 1)
 
-        for _ in range(time):
-            if forward:
-                i += 1
-            else:
-                i -= 1
-            
-            if i == 1:
-                forward = True
-            if i == n:
-                forward = False
-        
-        return i
+        if direction % 2 == 0:
+            return step + 1
+
+        return n - step
