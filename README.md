@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/devasherr/competitive_programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devasherr/competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/devasherr/competitive_programming/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/devasherr/competitive_programming/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devasherr/competitive_programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devasherr/competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/devasherr/competitive_programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/devasherr/competitive_programming/tree/master/2645-pass-the-pillow) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/devasherr/competitive_programming/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/devasherr/competitive_programming/tree/master/2159-two-out-of-three) |
 | [2478-longest-nice-subarray](https://github.com/devasherr/competitive_programming/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/devasherr/competitive_programming/tree/master/2509-minimize-xor) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devasherr/competitive_programming/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/devasherr/competitive_programming/tree/master/0113-path-sum-ii) |
 | [1160-letter-tile-possibilities](https://github.com/devasherr/competitive_programming/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/devasherr/competitive_programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/devasherr/competitive_programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
@@ -528,4 +533,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/devasherr/competitive_programming/tree/master/0875-longest-mountain-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
