@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devasherr/competitive_programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devasherr/competitive_programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
