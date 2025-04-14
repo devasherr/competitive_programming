@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/devasherr/competitive_programming/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/devasherr/competitive_programming/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devasherr/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/devasherr/competitive_programming/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Depth-First Search
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
