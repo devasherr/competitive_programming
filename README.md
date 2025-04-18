@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/devasherr/competitive_programming/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/devasherr/competitive_programming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/devasherr/competitive_programming/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devasherr/competitive_programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/devasherr/competitive_programming/tree/master/0142-linked-list-cycle-ii) |
