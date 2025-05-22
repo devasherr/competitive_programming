@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/devasherr/competitive_programming/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devasherr/competitive_programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/devasherr/competitive_programming/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3799-unique-3-digit-even-numbers](https://github.com/devasherr/competitive_programming/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/devasherr/competitive_programming/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devasherr/competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/devasherr/competitive_programming/tree/master/2050-count-good-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/devasherr/competitive_programming/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/devasherr/competitive_programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devasherr/competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/devasherr/competitive_programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3799-unique-3-digit-even-numbers](https://github.com/devasherr/competitive_programming/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/devasherr/competitive_programming/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/devasherr/competitive_programming/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3799-unique-3-digit-even-numbers](https://github.com/devasherr/competitive_programming/tree/master/3799-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
