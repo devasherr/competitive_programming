@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/devasherr/competitive_programming/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/devasherr/competitive_programming/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/devasherr/competitive_programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2159-two-out-of-three](https://github.com/devasherr/competitive_programming/tree/master/2159-two-out-of-three) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devasherr/competitive_programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1539-diagonal-traverse-ii](https://github.com/devasherr/competitive_programming/tree/master/1539-diagonal-traverse-ii) |
 | [1748-best-team-with-no-conflicts](https://github.com/devasherr/competitive_programming/tree/master/1748-best-team-with-no-conflicts) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/devasherr/competitive_programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devasherr/competitive_programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devasherr/competitive_programming/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
 | [1020-longest-turbulent-subarray](https://github.com/devasherr/competitive_programming/tree/master/1020-longest-turbulent-subarray) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/devasherr/competitive_programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2478-longest-nice-subarray](https://github.com/devasherr/competitive_programming/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
