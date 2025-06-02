@@ -1,18 +1,16 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        # this has duplicates
-        res, cur = [], []
-
-        def backtrack(i, total):
-            if total >= target:
-                if total == target:
-                    res.append(cur[:])
+        res = []
+        def generate(i, cur, path):
+            if cur > target: return
+            if cur == target:
+                res.append(path[:])
                 return
+            
+            for j in range(i, len(candidates)):
+                path.append(candidates[j])
+                generate(j, cur+candidates[j], path)
+                path.pop()
 
-            for idx in range(len(candidates)):
-                cur.append(candidates[idx])
-                backtrack(idx, sum(cur))
-                cur.pop()
-
-        backtrack(0, 0)
+        generate(0, 0, [])
         return res
