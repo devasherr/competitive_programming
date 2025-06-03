@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devasherr/competitive_programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/devasherr/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devasherr/competitive_programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/devasherr/competitive_programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/devasherr/competitive_programming/tree/master/0076-minimum-window-substring) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devasherr/competitive_programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/devasherr/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/devasherr/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/devasherr/competitive_programming/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/devasherr/competitive_programming/tree/master/0120-triangle) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devasherr/competitive_programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/devasherr/competitive_programming/tree/master/0039-combination-sum) |
 | [0093-restore-ip-addresses](https://github.com/devasherr/competitive_programming/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/devasherr/competitive_programming/tree/master/0113-path-sum-ii) |
