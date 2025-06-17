@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/devasherr/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/devasherr/competitive_programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2465-shifting-letters-ii](https://github.com/devasherr/competitive_programming/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devasherr/competitive_programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/devasherr/competitive_programming/tree/master/2478-longest-nice-subarray) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-best-team-with-no-conflicts](https://github.com/devasherr/competitive_programming/tree/master/1748-best-team-with-no-conflicts) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/devasherr/competitive_programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/devasherr/competitive_programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devasherr/competitive_programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/devasherr/competitive_programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/devasherr/competitive_programming/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/devasherr/competitive_programming/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/devasherr/competitive_programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/devasherr/competitive_programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2509-minimize-xor](https://github.com/devasherr/competitive_programming/tree/master/2509-minimize-xor) |
 ## Graph
 |  |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
 | [1539-diagonal-traverse-ii](https://github.com/devasherr/competitive_programming/tree/master/1539-diagonal-traverse-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/devasherr/competitive_programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devasherr/competitive_programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/devasherr/competitive_programming/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/devasherr/competitive_programming/tree/master/2868-continuous-subarrays) |
