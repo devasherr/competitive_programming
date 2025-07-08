@@ -8,32 +8,32 @@ class Solution:
         for u, v in blueEdges:
             blueGraph[u].append(v)
 
-        def bfs(target, path):
-            q = deque([(0, path)])
-            visit = set((0, path))
+        def bfs(color):
+            q = deque([(0, color)])
+            visit = set((0, color))
             level = 0
 
             while q:
                 for _ in range(len(q)):
                     node, color = q.popleft()
-                    if node == target: return level
+                    res[node] = min(res[node], level)
 
                     if color == 'r':
                         for child in blueGraph[node]:
                             if (child, 'b') not in visit:
                                 q.append((child, 'b'))
                                 visit.add((child, 'b'))
-                    if color == 'b':
+                    else:
                         for child in redGraph[node]:
                             if (child, 'r') not in visit:
                                 q.append((child, 'r'))
                                 visit.add((child, 'r'))
-                level += 1  
-            return float("inf")
+                level += 1
 
-
-        res = []
+        res = [float("inf")] * n
+        bfs('r')
+        bfs('b')
         for i in range(n):
-            val = min(bfs(i, 'r'), bfs(i, 'b'))
-            res.append(val if val != float("inf") else -1)
+            if res[i] == float("inf"):
+                res[i] = -1
         return res
