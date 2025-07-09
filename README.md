@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devasherr/competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/devasherr/competitive_programming/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/devasherr/competitive_programming/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/devasherr/competitive_programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devasherr/competitive_programming/tree/master/0283-move-zeroes) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/devasherr/competitive_programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/devasherr/competitive_programming/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/devasherr/competitive_programming/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/devasherr/competitive_programming/tree/master/0451-sort-characters-by-frequency) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/devasherr/competitive_programming/tree/master/0451-sort-characters-by-frequency) |
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
 | [1539-diagonal-traverse-ii](https://github.com/devasherr/competitive_programming/tree/master/1539-diagonal-traverse-ii) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/devasherr/competitive_programming/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/devasherr/competitive_programming/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/devasherr/competitive_programming/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
@@ -637,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devasherr/competitive_programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
