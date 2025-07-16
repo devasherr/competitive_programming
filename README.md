@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devasherr/competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/devasherr/competitive_programming/tree/master/0665-non-decreasing-array) |
 | [0733-flood-fill](https://github.com/devasherr/competitive_programming/tree/master/0733-flood-fill) |
+| [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/devasherr/competitive_programming/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/devasherr/competitive_programming/tree/master/0890-lemonade-change) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/devasherr/competitive_programming/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/devasherr/competitive_programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/devasherr/competitive_programming/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devasherr/competitive_programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/devasherr/competitive_programming/tree/master/0931-maximum-frequency-stack) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/devasherr/competitive_programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/devasherr/competitive_programming/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/devasherr/competitive_programming/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/devasherr/competitive_programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/devasherr/competitive_programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/devasherr/competitive_programming/tree/master/1095-two-city-scheduling) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/devasherr/competitive_programming/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devasherr/competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/devasherr/competitive_programming/tree/master/1018-largest-perimeter-triangle) |
 | [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
