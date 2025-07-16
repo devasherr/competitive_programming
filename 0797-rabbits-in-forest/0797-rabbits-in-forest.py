@@ -1,14 +1,14 @@
 class Solution:
-    def numRabbits(self, answers) -> int:
-        answers.sort()
-        i, res = 0, 0
+    def numRabbits(self, answers: List[int]) -> int:
+        count = defaultdict(int)
+        res = 0
 
-        while i < len(answers):
-            for _ in range(answers[i]):
-                if i + 1 >= len(answers): break
-                if answers[i] != answers[i+1]: break
-                i += 1
+        for num in answers:
+            if count[num] > 0:
+                count[num] -= 1 
+                continue
             
-            res += answers[i] + 1
-            i += 1
+            res += num + 1
+            count[num] = num
+        
         return res
