@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/devasherr/competitive_programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/devasherr/competitive_programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/devasherr/competitive_programming/tree/master/1095-two-city-scheduling) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/devasherr/competitive_programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/devasherr/competitive_programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/devasherr/competitive_programming/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/devasherr/competitive_programming/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/devasherr/competitive_programming/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/devasherr/competitive_programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/devasherr/competitive_programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/devasherr/competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
