@@ -1,25 +1,24 @@
 class Solution:
-    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+    def findOrder(self, numCourses: int, prerequisites):
+        inDegree = [0] * numCourses
         graph = defaultdict(list)
-        indergreeList = [0 for _ in range(numCourses)]
-
-        for a, b in prerequisites:
-            graph[b].append(a)
-            indergreeList[a] += 1
+        for u, v in prerequisites:
+            graph[v].append(u)
+            inDegree[u] += 1
         
-        orderedList = []
         q = deque()
         for i in range(numCourses):
-            if indergreeList[i] == 0:
+            if inDegree[i] == 0:
                 q.append(i)
-            
+        
+        res = []
         while q:
-            cur = q.popleft()
-            orderedList.append(cur)
-
-            for child in graph[cur]:
-                indergreeList[child] -= 1
-                if indergreeList[child] == 0:
+            node = q.popleft()
+            res.append(node)
+            for child in graph[node]:
+                inDegree[child] -= 1
+                if inDegree[child] == 0:
                     q.append(child)
         
-        return orderedList if len(orderedList) == numCourses else []
+        if len(res) != numCourses: return []
+        return res
