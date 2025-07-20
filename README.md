@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/devasherr/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/devasherr/competitive_programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [1916-find-center-of-star-graph](https://github.com/devasherr/competitive_programming/tree/master/1916-find-center-of-star-graph) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/devasherr/competitive_programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devasherr/competitive_programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/devasherr/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/devasherr/competitive_programming/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/devasherr/competitive_programming/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/devasherr/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/devasherr/competitive_programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/devasherr/competitive_programming/tree/master/0417-pacific-atlantic-water-flow) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/devasherr/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devasherr/competitive_programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Trie
