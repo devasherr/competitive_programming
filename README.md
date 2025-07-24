@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/devasherr/competitive_programming/tree/master/0875-longest-mountain-in-array) |
+| [0881-loud-and-rich](https://github.com/devasherr/competitive_programming/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/devasherr/competitive_programming/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/devasherr/competitive_programming/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/devasherr/competitive_programming/tree/master/0909-stone-game) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/devasherr/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/devasherr/competitive_programming/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/devasherr/competitive_programming/tree/master/0881-loud-and-rich) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/devasherr/competitive_programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/devasherr/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/devasherr/competitive_programming/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/devasherr/competitive_programming/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
+| [0881-loud-and-rich](https://github.com/devasherr/competitive_programming/tree/master/0881-loud-and-rich) |
 | [1005-univalued-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/devasherr/competitive_programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/devasherr/competitive_programming/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/devasherr/competitive_programming/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/devasherr/competitive_programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/devasherr/competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/devasherr/competitive_programming/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devasherr/competitive_programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
