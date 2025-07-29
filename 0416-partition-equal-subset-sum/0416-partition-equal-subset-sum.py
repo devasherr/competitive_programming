@@ -1,15 +1,14 @@
 class Solution:
-    def canPartition(self, nums) -> bool:
+    def canPartition(self, nums: List[int]) -> bool:
         n = sum(nums)
         if n % 2 != 0: return False
-        n //= 2
 
-        def find(i, val):
-            if i == len(nums): return val == n
+        def dp(i, val):
+            if i == len(nums): return val == n // 2
 
             if (i, val) not in memo:
-                memo[(i, val)] = find(i+1, val+nums[i]) or find(i+1, val)
+                memo[(i, val)] = dp(i+1, val+nums[i]) or dp(i+1, val)
             return memo[(i, val)]
-
+        
         memo = {}
-        return find(0, 0)
+        return dp(0, 0)
