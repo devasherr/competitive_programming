@@ -1,14 +1,9 @@
 class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    def topKFrequent(self, nums, k: int):
         count = Counter(nums)
-        heap = []
-        for key in count:
-            heap.append((-count, key))
 
-        heapq.heapify(heap)
-        res = []
-        for _ in range(k):
-            _, num = heapq.heappop(heap)
-            res.append(num)
-        
+        cur = [(val, key) for key, val in count.items()]
+        cur.sort(reverse=True)
+
+        res = [cur[i][1] for i in range(k)]
         return res
