@@ -1,26 +1,17 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
-        N = len(height)
-        # calc left bound
-        leftBound = [height[0] for h in height]
-        lb = height[0]
+    def trap(self, height) -> int:
+        n = len(height)
+        leftMax = height[::]
+        rightMax = height[::]
 
-        for i in range(1, N):
-            leftBound[i] = lb
-            lb = max(lb, height[i])
+        # left prefix
+        for i in range(1, n):
+            leftMax[i] = max(leftMax[i], leftMax[i-1])
+        for i in range(n-2, -1, -1):
+            rightMax[i] = max(rightMax[i], rightMax[i+1])
 
-        # calc right bound
-        rightBound = [height[-1] for h in height]
-        rb = height[-1]
-
-        for i in range(N - 2, -1, -1):
-            rightBound[i] = rb
-            rb = max(rb, height[i])
-
-        # loop every elem in height
         res = 0
-        for i in range(N):
-            if height[i] < leftBound[i] and height[i] < rightBound[i]:
-                res += min(leftBound[i], rightBound[i]) - height[i]
+        for i in range(1, n-1):
+            res += max(min(leftMax[i-1], rightMax[i+1]) - height[i], 0)
 
         return res
