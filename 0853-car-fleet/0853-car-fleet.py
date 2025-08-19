@@ -1,18 +1,6 @@
 class Solution:
-    def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        indexMap = {}
-        for i in range(len(position)):
-            indexMap[position[i]] = i
-        position.sort()
-
-        minSpeed = 0
-        res = set()
-
-        for i in range(len(position)-1, -1, -1):
-            cur = (target - position[i]) / speed[indexMap[position[i]]]
-            if cur > minSpeed:
-                res.add(cur)
-                
-            minSpeed = max(minSpeed, cur)
-
-        return len(res)
+    def carFleet(self, target, position, speed) -> int:
+        cars = [(target - p) / s for p, s in sorted(zip(position, speed))]
+        for i in range(len(cars)-2, -1, -1):
+            cars[i] = max(cars[i], cars[i+1])
+        return len(set(cars))
