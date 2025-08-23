@@ -1,23 +1,18 @@
 class Solution:
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        # min bound and max bound
-        left, right = 1, max(piles)
-        res = right
-
-        def canEat(num):
+    def minEatingSpeed(self, piles, h: int) -> int:
+        def canEat(n):
             cur = 0
-            for pile in piles:
-                cur += ceil(pile/num)
-
+            for i in range(len(piles)):
+                cur += math.ceil(piles[i] / n)
             return cur <= h
 
+        left, right = 1, sum(piles)
+        res = 0
         while left <= right:
-            mid = left + ((right - left) // 2)
-
+            mid = left + (right - left) // 2
             if canEat(mid):
-                right = mid - 1
                 res = mid
+                right = mid - 1
             else:
-                left += 1
-
+                left = mid + 1
         return res
