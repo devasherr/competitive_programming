@@ -9,19 +9,20 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        oldToCopy ={None: None}
+        if not head: return None
 
-        curr = head
-        while curr:
-            copy = Node(curr.val)
-            oldToCopy[curr] = copy
-            curr = curr.next
-        
-        curr = head
-        while curr:
-            copy = oldToCopy[curr]
-            copy.next = oldToCopy[curr.next]
-            copy.random = oldToCopy[curr.random]
-            curr = curr.next
+        nodeMap = {}
+        cur = head
+        while cur:
+            new_node = Node(cur.val)
+            nodeMap[cur] = new_node
+            cur = cur.next
 
-        return oldToCopy[head]
+        cur = head
+        while cur:
+            new_node = nodeMap[cur]
+            new_node.next = nodeMap[cur.next] if cur.next in nodeMap else None
+            new_node.random = nodeMap[cur.random] if cur.random in nodeMap else None
+            cur = cur.next
+
+        return nodeMap[head]
