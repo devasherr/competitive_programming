@@ -1,46 +1,33 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: List[List[int]]) -> int:
-        degree = [0 for _ in range(n)]
-        rank = [0 for _ in range(n)]
-        parent = [i for i in range(n)]
-
+        graph = defaultdict(list)
+        visit = set()
         for u, v in edges:
-            degree[u] += 1
-            degree[v] += 1
+            graph[u].append(v)
+            graph[v].append(u)
 
-        def find(x):
-            if x != parent[x]:
-                parent[x] = find(parent[x])
-            return parent[x]
+        def bfs(node):
+            q = deque([node])
+            childCount = 0
+            nodes = 0
 
-        def union(x, y):
-            px, py = find(x), find(y)
-            if px == py: return
+            while q:
+                cur = q.popleft()
+                visit.add(cur)
 
-            if rank[px] > rank[py]:
-                parent[py] = px    
-                rank[px] += 1
-            else:
-                parent[px] = py
-                rank[py] += 1
-        
-        for u, v in edges:
-            union(u, v)
+                nodes += 1
+                childCount += len(graph[cur])
 
-        parent = [find(x) for x in parent]
-        res = set(parent)
-        ans = 0
+                for child in graph[cur]:
+                    if child in visit: continue
+                    q.append(child)
 
-        for val in res:
-            nodes, edges = 0, 0
+            return nodes * (nodes - 1) == childCount
 
-            for i in range(n):
-                if parent[i] == val:
-                    nodes += 1
-                    edges += degree[i]
+        res = 0
+        for i in range(n):
+            if i in visit: continue
+            if bfs(i):
+                res += 1
 
-            edges = edges // 2
-            if edges == nodes * (nodes - 1) // 2:
-                ans += 1
-
-        return ans
+        return res + 1
