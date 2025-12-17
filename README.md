@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devasherr/competitive_programming/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/devasherr/competitive_programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/devasherr/competitive_programming/tree/master/0206-reverse-linked-list) |
+| [0382-linked-list-random-node](https://github.com/devasherr/competitive_programming/tree/master/0382-linked-list-random-node) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/devasherr/competitive_programming/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/devasherr/competitive_programming/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devasherr/competitive_programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/devasherr/competitive_programming/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/devasherr/competitive_programming/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devasherr/competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
@@ -684,4 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/devasherr/competitive_programming/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/devasherr/competitive_programming/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
