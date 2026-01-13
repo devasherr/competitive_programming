@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/devasherr/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devasherr/competitive_programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/devasherr/competitive_programming/tree/master/1095-two-city-scheduling) |
+| [1110-delete-nodes-and-return-forest](https://github.com/devasherr/competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/devasherr/competitive_programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/devasherr/competitive_programming/tree/master/1222-remove-covered-intervals) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/devasherr/competitive_programming/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/devasherr/competitive_programming/tree/master/0952-word-subsets) |
+| [1110-delete-nodes-and-return-forest](https://github.com/devasherr/competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/devasherr/competitive_programming/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/devasherr/competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/devasherr/competitive_programming/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/devasherr/competitive_programming/tree/master/0881-loud-and-rich) |
 | [1005-univalued-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/devasherr/competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1005-univalued-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/devasherr/competitive_programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1110-delete-nodes-and-return-forest](https://github.com/devasherr/competitive_programming/tree/master/1110-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/devasherr/competitive_programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/devasherr/competitive_programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
