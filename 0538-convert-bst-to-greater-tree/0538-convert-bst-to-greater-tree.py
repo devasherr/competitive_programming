@@ -21,14 +21,13 @@ class Solution:
             numsMap[nums[i]] = nums[i] + nums[i+1]
             nums[i] += nums[i+1]
 
-        print(nums)
-        def dfs(node):
-            if not node: return
+        def construct(node):
+            if not node: return None
 
-            node.val = numsMap[node.val]
-            dfs(node.left)
-            dfs(node.right)
+            root = TreeNode(numsMap[node.val])
+            root.left = construct(node.left)
+            root.right = construct(node.right)
 
-        dfs(root)
-        return root
+            return root
 
+        return construct(root)
