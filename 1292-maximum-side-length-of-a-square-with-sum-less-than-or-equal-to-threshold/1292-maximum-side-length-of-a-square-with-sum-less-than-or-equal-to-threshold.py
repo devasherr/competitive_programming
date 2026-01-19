@@ -21,8 +21,12 @@ class Solution:
             return False
 
         res = 0
-        for k in range(min(len(mat), len(mat[0]))):
-            if compute(k):
-                res = k + 1
+        left, right = 0, min(len(mat), len(mat[0]))
+        while left <= right:
+            mid = left + (right - left) // 2
+            if compute(mid):
+                res = mid + 1
+                left = mid + 1
+            else:
+                right = mid - 1
         return res
-
