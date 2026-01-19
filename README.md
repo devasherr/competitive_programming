@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/devasherr/competitive_programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1222-remove-covered-intervals](https://github.com/devasherr/competitive_programming/tree/master/1222-remove-covered-intervals) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/devasherr/competitive_programming/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/devasherr/competitive_programming/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devasherr/competitive_programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/devasherr/competitive_programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/devasherr/competitive_programming/tree/master/1364-tuple-with-same-product) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devasherr/competitive_programming/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/devasherr/competitive_programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/devasherr/competitive_programming/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/devasherr/competitive_programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/devasherr/competitive_programming/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/devasherr/competitive_programming/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/devasherr/competitive_programming/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/devasherr/competitive_programming/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/devasherr/competitive_programming/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/devasherr/competitive_programming/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1380-number-of-closed-islands](https://github.com/devasherr/competitive_programming/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/devasherr/competitive_programming/tree/master/1972-rotating-the-box) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devasherr/competitive_programming/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/devasherr/competitive_programming/tree/master/0560-subarray-sum-equals-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/devasherr/competitive_programming/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/devasherr/competitive_programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2465-shifting-letters-ii](https://github.com/devasherr/competitive_programming/tree/master/2465-shifting-letters-ii) |
