@@ -1,28 +1,28 @@
 class Solution:
     def maxSideLength(self, mat: List[List[int]], threshold: int) -> int:
-        rows, cols = len(mat), len(mat[0])
-        # now make some knid of prefix for this
+        for i in range(len(mat)):
+            for j in range(len(mat[0])):
+                top = mat[i][j-1] if j-1 >= 0 else 0
+                left = mat[i-1][j] if i-1 >= 0 else 0
+                dig = mat[i-1][j-1] if i-1 >= 0 and j-1 >= 0 else 0
 
-        def canAdd(n):
-            for i in range(rows - n + 1):
-                for j in range(cols - n + 1):
-                    # calc the sum
-                    curSum = 0
-                    for x in range(n):
-                        for y in range(n):
-                            curSum += mat[i+x][j+y]
-                    if curSum <= threshold:
+                mat[i][j] += top + left - dig
+
+        def compute(k):
+            for i in range(k, len(mat)):
+                for j in range(k, len(mat[0])):
+                    top = mat[i][j-k-1] if j-k-1 >= 0 else 0
+                    left = mat[i-k-1][j] if i-k-1 >= 0 else 0
+                    dig = mat[i-k-1][j-k-1] if i-k-1 >= 0 and j-k-1 >= 0 else 0
+
+                    cur = mat[i][j] - left - top + dig
+                    if cur <= threshold:
                         return True
             return False
-        
-        left, right = 0, min(rows, cols)
+
         res = 0
-        while left <= right:
-            mid = left + (right - left) // 2
-            print(mid)
-            if canAdd(mid):
-                res = mid
-                left = mid + 1
-            else:
-                right = mid - 1
+        for k in range(min(len(mat), len(mat[0]))):
+            if compute(k):
+                res = k + 1
         return res
+
