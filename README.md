@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/devasherr/competitive_programming/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/devasherr/competitive_programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2469-convert-the-temperature](https://github.com/devasherr/competitive_programming/tree/master/2469-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/devasherr/competitive_programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/devasherr/competitive_programming/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/devasherr/competitive_programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
