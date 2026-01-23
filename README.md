@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/devasherr/competitive_programming/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/devasherr/competitive_programming/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/devasherr/competitive_programming/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/devasherr/competitive_programming/tree/master/0268-missing-number) |
