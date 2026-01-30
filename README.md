@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/devasherr/competitive_programming/tree/master/2159-two-out-of-three) |
 | [2206-detonate-the-maximum-bombs](https://github.com/devasherr/competitive_programming/tree/master/2206-detonate-the-maximum-bombs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devasherr/competitive_programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/devasherr/competitive_programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/devasherr/competitive_programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/devasherr/competitive_programming/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/devasherr/competitive_programming/tree/master/1539-diagonal-traverse-ii) |
 | [1748-best-team-with-no-conflicts](https://github.com/devasherr/competitive_programming/tree/master/1748-best-team-with-no-conflicts) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/devasherr/competitive_programming/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/devasherr/competitive_programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/devasherr/competitive_programming/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/devasherr/competitive_programming/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devasherr/competitive_programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/devasherr/competitive_programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2159-two-out-of-three](https://github.com/devasherr/competitive_programming/tree/master/2159-two-out-of-three) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/devasherr/competitive_programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/devasherr/competitive_programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/devasherr/competitive_programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/devasherr/competitive_programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/devasherr/competitive_programming/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/devasherr/competitive_programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/devasherr/competitive_programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1708-design-parking-system](https://github.com/devasherr/competitive_programming/tree/master/1708-design-parking-system) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/devasherr/competitive_programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/devasherr/competitive_programming/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
