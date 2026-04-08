@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/devasherr/competitive_programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/devasherr/competitive_programming/tree/master/0665-non-decreasing-array) |
 | [0733-flood-fill](https://github.com/devasherr/competitive_programming/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/devasherr/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/devasherr/competitive_programming/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/devasherr/competitive_programming/tree/master/0854-making-a-large-island) |
 | [0875-longest-mountain-in-array](https://github.com/devasherr/competitive_programming/tree/master/0875-longest-mountain-in-array) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/devasherr/competitive_programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/devasherr/competitive_programming/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/devasherr/competitive_programming/tree/master/0931-maximum-frequency-stack) |
 ## Bucket Sort
@@ -724,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/devasherr/competitive_programming/tree/master/0382-linked-list-random-node) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/devasherr/competitive_programming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
